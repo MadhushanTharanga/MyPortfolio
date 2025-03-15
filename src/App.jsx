@@ -2,7 +2,9 @@ import React from 'react'
 
 function App() {
     return (
-        <div>App</div>
+        <main className="max-w-7xl mx-auto ">
+            <h1 className="text-4xl text-white font-bold underline "> Hello , Three.js</h1>
+        </main>
     )
 }
 
